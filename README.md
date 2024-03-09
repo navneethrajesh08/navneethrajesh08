@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Navneeth
 - 👀 I’m interested in Data and Technology.
 - 🌱 I’m currently learning Data Analytics and working on few projects
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/navneeth-rajesh-755a211b2/)!
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/navneeth-rajesh-755a211b2/), [Gmail](navneethrajesh08@gmail.com)
 - ⚡ Fun fact: I believe aliens live amoung us
 
 <!---
